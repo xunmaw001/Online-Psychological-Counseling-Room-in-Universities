@@ -1,0 +1,2 @@
+# Online-Psychological-Counseling-Room-in-Universities
+基于Spring Boot和Vue的高校线上心理咨询室是一个专为学生心理健康服务打造的Web应用。后端使用Spring Boot提供安全的数据处理和咨询预约功能，前端采用Vue.js构建用户友好的界面。系统功能包括匿名咨询、预约管理、心理测试和资源共享，旨在为学生提供方便、保密的心理支持。通过该平台，学生能够轻松寻求专业心理帮助，促进心理健康，提高学习和生活质量。
